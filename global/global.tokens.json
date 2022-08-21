@@ -31,107 +31,12 @@
     "accent-5": {
       "value": "#a8eb12",
       "type": "color"
-    },
-    "fontFamilies": {
-      "raleway": {
-        "value": "Raleway",
-        "type": "fontFamilies"
-      },
-      "epilogue": {
-        "value": "Epilogue",
-        "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "1",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "raleway-0": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "epilogue-1": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "24",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0%",
-        "type": "letterSpacing"
-      }
-    },
-    "spacing-0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    },
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "no-deco": {
-      "value": "none",
-      "type": "textDecoration"
-    },
-    "font-emphasis": {
-      "value": {
-        "fontFamily": "{fontFamilies.raleway}",
-        "fontWeight": "{fontWeights.raleway-0}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.1}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{spacing-0}",
-        "textCase": "{none}",
-        "textDecoration": "{no-deco}"
-      },
-      "type": "typography"
-    },
-    "font-body": {
-      "value": {
-        "fontFamily": "{fontFamilies.epilogue}",
-        "fontWeight": "{fontWeights.epilogue-1}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{spacing-0}",
-        "textCase": "{none}",
-        "textDecoration": "{no-deco}"
-      },
-      "type": "typography"
-    }
-  },
-  "pink": {
-    "text-loud": {
-      "value": "#ff00cd",
-      "type": "color"
     }
   },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global",
-      "pink"
+      "global"
     ]
   }
 }
