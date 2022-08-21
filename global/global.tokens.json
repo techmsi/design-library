@@ -80,32 +80,6 @@
         "type": "paragraphSpacing"
       }
     },
-    "font-emphasis": {
-      "value": {
-        "fontFamily": "{fontFamilies.raleway}",
-        "fontWeight": "{fontWeights.bold}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.1}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
-    "font-body": {
-      "value": {
-        "fontFamily": "{fontFamilies.epilogue}",
-        "fontWeight": "{fontWeights.regular}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
     "textCase": {
       "none": {
         "value": "none",
@@ -143,27 +117,10 @@
         "value": "Raleway",
         "type": "fontFamilies"
       }
-    },
-    "font-body": {
-      "value": {
-        "fontFamily": "{fontFamilies.raleway}",
-        "fontWeight": "{fontWeights.epilogue-1}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
     }
   },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": [
-      "global",
-      "pink",
-      "limited"
-    ]
+    "tokenSetOrder": ["global", "pink", "limited"]
   }
 }
