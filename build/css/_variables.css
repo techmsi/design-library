@@ -1,4 +1,13 @@
 :root {
+  --global-font-weights-raleway-0: SemiBold;
+  --global-font-families-raleway: Raleway;
+  --global-text-decoration-none: none;
+  --global-text-case-none: none;
+  --global-paragraph-spacing-0: 0;
+  --global-letter-spacing-0: 0%;
+  --global-text-xl: 24;
+  --global-line-1: 1;
+  --global-text-loud: #ff00cd;
   --global-accent-5: #a8eb12;
   --global-accent-4: #00bf72;
   --global-accent-3: #008793;
@@ -7,4 +16,5 @@
   --global-error: #f15252;
   --global-text-base: #213547;
   --global-background-light: #ffffff;
+  --global-font-emphasis: [object Object];
 }
