@@ -36,11 +36,9 @@
       "value": "#ff00cd",
       "type": "color"
     },
-    "lineHeights": {
-      "0": {
-        "value": "AUTO",
-        "type": "lineHeights"
-      }
+    "line-1": {
+      "value": "1",
+      "type": "lineHeights"
     },
     "text-xl": {
       "value": "24",
@@ -86,7 +84,7 @@
       "value": {
         "fontFamily": "{fontFamilies.raleway}",
         "fontWeight": "{fontWeights.raleway-0}",
-        "lineHeight": "{lineHeights.0}",
+        "lineHeight": "{line-1}",
         "fontSize": "{text-xl}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
