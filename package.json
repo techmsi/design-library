@@ -1,0 +1,15 @@
+{
+  "name": "design-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:techmsi/design-library.git",
+  "author": "techmsi <sophia.idro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build:vars": "style-dictionary build",
+    "postbuild:vars": "node main"
+  },
+  "dependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}
