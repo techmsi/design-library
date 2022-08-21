@@ -56,6 +56,14 @@
       "regular": {
         "value": "Regular",
         "type": "fontWeights"
+      },
+      "raleway-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "epilogue-1": {
+        "value": "Regular",
+        "type": "fontWeights"
       }
     },
     "fontSize": {
@@ -83,7 +91,7 @@
     "font-emphasis": {
       "value": {
         "fontFamily": "{fontFamilies.raleway}",
-        "fontWeight": "{fontWeights.bold}",
+        "fontWeight": "{fontWeights.raleway-0}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.1}",
         "letterSpacing": "{letterSpacing.0}",
@@ -96,7 +104,7 @@
     "font-body": {
       "value": {
         "fontFamily": "{fontFamilies.epilogue}",
-        "fontWeight": "{fontWeights.regular}",
+        "fontWeight": "{fontWeights.epilogue-1}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.0}",
         "letterSpacing": "{letterSpacing.0}",
@@ -125,45 +133,11 @@
       "type": "color"
     }
   },
-  "limited": {
-    "background-light": {
-      "value": "#e0e0e0",
-      "type": "color"
-    },
-    "text-base": {
-      "value": "#2f592d",
-      "type": "color"
-    },
-    "accent-3": {
-      "value": "#008793",
-      "type": "color"
-    },
-    "fontFamilies": {
-      "raleway": {
-        "value": "Raleway",
-        "type": "fontFamilies"
-      }
-    },
-    "font-body": {
-      "value": {
-        "fontFamily": "{fontFamilies.raleway}",
-        "fontWeight": "{fontWeights.epilogue-1}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "pink",
-      "limited"
+      "pink"
     ]
   }
 }
