@@ -56,6 +56,14 @@
       "regular": {
         "value": "Regular",
         "type": "fontWeights"
+      },
+      "raleway-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "epilogue-1": {
+        "value": "Regular",
+        "type": "fontWeights"
       }
     },
     "fontSize": {
@@ -91,6 +99,32 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "font-emphasis": {
+      "value": {
+        "fontFamily": "{fontFamilies.raleway}",
+        "fontWeight": "{fontWeights.raleway-0}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.1}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "font-body": {
+      "value": {
+        "fontFamily": "{fontFamilies.epilogue}",
+        "fontWeight": "{fontWeights.epilogue-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.0}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
     }
   },
   "pink": {
