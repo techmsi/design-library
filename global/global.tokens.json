@@ -82,14 +82,14 @@
     },
     "font-emphasis": {
       "value": {
-        "fontFamily": "{fontFamilies.raleway}",
-        "fontWeight": "{fontWeights.raleway-0}",
-        "lineHeight": "{line-1}",
-        "fontSize": "{text-xl}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "fontFamily": "{global.fontFamilies.raleway}",
+        "fontWeight": "{global.fontWeights.raleway-0}",
+        "lineHeight": "{global.line-1}",
+        "fontSize": "{global.text-xl}",
+        "letterSpacing": "{global.letterSpacing.0}",
+        "paragraphSpacing": "{global.paragraphSpacing.0}",
+        "textCase": "{global.textCase.none}",
+        "textDecoration": "{global.textDecoration.none}"
       },
       "type": "typography"
     }
