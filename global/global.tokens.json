@@ -82,18 +82,12 @@
         "type": "fontWeights"
       }
     },
-    "fontSize": {
-      "0": {
-        "value": "24",
-        "type": "fontSizes"
-      }
-    },
     "font-emphasis": {
       "value": {
         "fontFamily": "{fontFamilies.raleway}",
         "fontWeight": "{fontWeights.raleway-0}",
         "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
+        "fontSize": "{text-xl}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "textCase": "{textCase.none}",
