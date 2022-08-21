@@ -99,28 +99,11 @@
       "type": "color"
     }
   },
-  "limited": {
-    "background-light": {
-      "value": "#e0e0e0",
-      "type": "color"
-    },
-    "text-base": {
-      "value": "#2f592d",
-      "type": "color"
-    },
-    "accent-3": {
-      "value": "#008793",
-      "type": "color"
-    },
-    "fontFamilies": {
-      "raleway": {
-        "value": "Raleway",
-        "type": "fontFamilies"
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": ["global", "pink", "limited"]
+    "tokenSetOrder": [
+      "global",
+      "pink"
+    ]
   }
 }
